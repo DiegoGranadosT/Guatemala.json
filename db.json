@@ -1,7 +1,7 @@
-  
-[
-        "title" : "Alta Verapaz",
-        "mun" : [
+[ 
+  {
+        "title": "Alta Verapaz",
+        "mun": [
             "Chahal",
             "Chisec",
             "Cobán",
@@ -19,10 +19,11 @@
             "Tucurú",
             "Santa María Cahabón",
             "Santa Catarina La Tinta"
-        ]],
-[
-        "title" :"Baja Verapaz",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Baja Verapaz",
+        "mun": [
             "Cubulco",
             "Granados",
             "Purulhá",
@@ -31,10 +32,11 @@
             "San Jerónimo",
             "San Miguel Chicaj",
             "Santa Cruz El Chol"
-        ]],
-[
-        "title" :"Chimaltenango",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Chimaltenango",
+        "mun": [
             "Acatenango",
             "Chimaltenango",
             "El Tejar",
@@ -51,10 +53,11 @@
             "Tecpán Guatemala",
             "Yepocapa",
             "Zaragoza"
-        ]],
-[
-        "title" : "Chiquimula",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Chiquimula",
+        "mun": [
             "Camotán",
             "Chiquimula",
             "Concepción Las Minas",
@@ -66,10 +69,11 @@
             "San Jacinto",
             "San José La Arada",
             "San Juan Ermita"
-        ]],
-[
-        "title" : "El Progreso",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "El Progreso",
+        "mun": [
             "El Jícaro",
             "Guastatoya",
             "Morazán",
@@ -77,10 +81,11 @@
             "San Antonio La Paz",
             "San Cristóbal Acasaguastlán",
             "Sanarate"
-        ]],
-[
-        "title" : "Escuintla",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Escuintla",
+        "mun": [
             "Escuintla",
             "Guanagazapa",
             "Iztapa",
@@ -94,10 +99,11 @@
             "Santa Lucía Cotzumalguapa",
             "Siquinalá",
             "Tiquisate"
-        ]],
-[
-        "title" : "Guatemala",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Guatemala",
+        "mun": [
             "Amatitlán",
             "Chinautla",
             "Chuarrancho",
@@ -114,10 +120,11 @@
             "San Raymundo",
             "Santa Catarina Pinula",
             "Villa Canales"
-        ]],
-[
-        "title" : "Huehuetenango",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Huehuetenango",
+        "mun": [
             "Aguacatán",
             "Chiantla",
             "Colotenango",
@@ -149,19 +156,21 @@
             "Soloma",
             "Tectitán",
             "Todos Santos Cuchumatan"
-        ]],
-[
-        "title" : "Izabal",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Izabal",
+        "mun": [
             "El Estor",
             "Livingston",
             "Los Amates",
             "Morales",
             "Puerto Barrios"
-        ]],
-[
-        "title" : "Jalapa",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Jalapa",
+        "mun": [
             "Jalapa",
             "Mataquescuintla",
             "Monjas",
@@ -169,10 +178,11 @@
             "San Luis Jilotepeque",
             "San Manuel Chaparrón",
             "San Pedro Pinula"
-        ]],
-[
-        "title" : "Jutiapa",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Jutiapa",
+        "mun": [
             "Agua Blanca",
             "Asunción Mita",
             "Atescatempa",
@@ -190,8 +200,9 @@
             "Santa Catarina Mita",
             "Yupiltepeque",
             "Zapotitlán"
-        ]],
-[
+        ]
+  },
+  {
         "title" : "Petén",
         "mun" : [
             "Dolores",
@@ -207,10 +218,11 @@
             "Santa Ana",
             "Sayaxché",
             "Las Cruces"
-        ]],
-[
-        "title" : "Quetzaltenango",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Quetzaltenango",
+        "mun": [
             "Almolonga",
             "Cabricán",
             "Cajolá",
@@ -235,10 +247,11 @@
             "San Miguel Sigüilá",
             "Sibilia",
             "Zunil"
-        ]],
-[
-        "title" : "Quiché",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Quiché",
+        "mun": [
             "Canillá",
             "Chajul",
             "Chicamán",
@@ -260,10 +273,11 @@
             "Santa Cruz del Quiché",
             "Uspantán",
             "Zacualpa"
-        ]],
-[
-        "title" : "Retalhuleu",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Retalhuleu",
+        "mun": [
             "Champerico",
             "El Asintal",
             "Nuevo San Carlos",
@@ -273,10 +287,11 @@
             "San Martín Zapotitlán",
             "San Sebastián",
             "Santa Cruz Muluá"
-        ]],
-[
-        "title" : "Sacatepéquez",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Sacatepéquez",
+        "mun": [
             "Alotenango",
             "Antigua",
             "Ciudad Vieja",
@@ -293,10 +308,11 @@
             "Santiago Sacatepéquez",
             "Santo Domingo Xenacoj",
             "Sumpango"
-        ]],
-[
-        "title" : "San Marcos",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "San Marcos",
+        "mun": [
             "Ayutla",
             "Catarina",
             "Comitancillo",
@@ -326,10 +342,11 @@
             "Tacaná",
             "Tajumulco",
             "Tejutla"
-        ]],
-[
-        "title" : "Santa Rosa",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Santa Rosa",
+        "mun": [
             "Barberena",
             "Casillas",
             "Chiquimulilla",
@@ -344,10 +361,11 @@
             "Santa María Ixhuatán",
             "Santa Rosa de Lima",
             "Taxisco"
-        ]],
-[
-        "title" : "Sololá",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Sololá",
+        "mun": [
             "Concepción",
             "Nahualá",
             "Panajachel",
@@ -367,10 +385,11 @@
             "Santa María Visitación",
             "Santiago Atitlán",
             "Sololá"
-        ]],
-    [
-        "title" : "Suchitepéquez",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Suchitepéquez",
+        "mun": [
             "Chicacao",
             "Cuyotenango",
             "Mazatenango",
@@ -391,10 +410,11 @@
             "Santo Domingo Suchitepequez",
             "Santo Tomas La Unión",
             "Zunilito"
-        ]],
-        [
-        "title" : "Totonicapán",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Totonicapán",
+        "mun": [
             "Momostenango",
             "San Andrés Xecul",
             "San Bartolo",
@@ -403,10 +423,11 @@
             "Santa Lucía La Reforma",
             "Santa María Chiquimula",
             "Totonicapán"
-        ]],
-        [
-        "title" : "Zacapa",
-        "mun" : [
+        ]
+  },
+  {
+        "title": "Zacapa",
+        "mun": [
             "Cabañas",
             "Estanzuela",
             "Gualán",
@@ -417,5 +438,6 @@
             "Teculután",
             "Usumatlán",
             "Zacapa"
-        ]]
-
+        ]
+  }
+]
