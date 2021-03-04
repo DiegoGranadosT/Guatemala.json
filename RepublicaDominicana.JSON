@@ -1,0 +1,343 @@
+[
+   {
+      "provincia_id":1,
+      "provincia":"Distrito Nacional",
+      "municipios":[
+         "SANTO DOMINGO CENTRO (DN)",
+         "SANTO DOMINGO ESTE",
+         "SANTO DOMINGO OESTE",
+         "SANTO DOMINGO NORTE",
+         "BOCA CHICA",
+         "SAN ANTONIO DE GUERRA",
+         "LOS ALCARRIZOS",
+         "PEDRO BRAND"
+      ]
+   },
+   {
+      "provincia_id":21,
+      "provincia":"San Pedro de Macorís",
+      "municipios":[
+         "SAN PEDRO DE MACORIS",
+         "LOS LLANOS",
+         "RAMON SANTANA",
+         "CONSUELO",
+         "QUISQUEYA",
+         "GUAYACANES"
+      ]
+   },
+   {
+      "provincia_id":22,
+      "provincia":"La Romana",
+      "municipios":[
+         "LA ROMANA",
+         "GUAYMATE",
+         "VILLA HERMOSA"
+      ]
+   },
+   {
+      "provincia_id":23,
+      "provincia":"La Altagracia",
+      "municipios":[
+         "HIGUEY",
+         "SAN RAFAEL DEL YUMA"
+      ]
+   },
+   {
+      "provincia_id":24,
+      "provincia":"El Seibo",
+      "municipios":[
+         "EL SEIBO",
+         "MICHES"
+      ]
+   },
+   {
+      "provincia_id":25,
+      "provincia":"Hato Mayor",
+      "municipios":[
+         "HATO MAYOR",
+         "SABANA DE LA MAR",
+         "EL VALLE"
+      ]
+   },
+   {
+      "provincia_id":31,
+      "provincia":"Duarte",
+      "municipios":[
+         "SAN FRANCISCO DE MACORIS",
+         "ARENOSO",
+         "CASTILLO",
+         "PIMENTEL",
+         "VILLA RIVA",
+         "LAS GUARANAS",
+         "EUGENIO MARIA DE HOSTOS"
+      ]
+   },
+   {
+      "provincia_id":32,
+      "provincia":"Samaná",
+      "municipios":[
+         "SAMANA",
+         "SANCHEZ",
+         "LAS TERRENAS"
+      ]
+   },
+   {
+      "provincia_id":33,
+      "provincia":"Maria Trinidad Sánchez",
+      "municipios":[
+         "NAGUA",
+         "CABRERA",
+         "EL FACTOR",
+         "RIO SAN JUAN"
+      ]
+   },
+   {
+      "provincia_id":34,
+      "provincia":"Salcedo",
+      "municipios":[
+         "SALCEDO",
+         "TENARES",
+         "VILLA TAPIA"
+      ]
+   },
+   {
+      "provincia_id":41,
+      "provincia":"La Vega",
+      "municipios":[
+         "LA VEGA",
+         "CONSTANZA",
+         "JARABACOA",
+         "JIMA ABAJO"
+      ]
+   },
+   {
+      "provincia_id":42,
+      "provincia":"Monseñor Nouel",
+      "municipios":[
+         "BONAO",
+         "MAIMON",
+         "PIEDRA BLANCA"
+      ]
+   },
+   {
+      "provincia_id":43,
+      "provincia":"Sánchez Ramirez",
+      "municipios":[
+         "COTUI",
+         "CEVICOS",
+         "FANTINO",
+         "LA MATA"
+      ]
+   },
+   {
+      "provincia_id":51,
+      "provincia":"Santiago",
+      "municipios":[
+         "SANTIAGO",
+         "BISONO",
+         "JANICO",
+         "LICEY AL MEDIO",
+         "SAN JOSE DE LAS MATAS",
+         "TAMBORIL",
+         "VILLA GONZALEZ",
+         "PUÑAL",
+         "SABANA IGLESIA"
+      ]
+   },
+   {
+      "provincia_id":56,
+      "provincia":"Espaillat",
+      "municipios":[
+         "MOCA",
+         "CAYETANO GERMOSEN",
+         "GASPAR HERNANDEZ",
+         "JAMAO AL NORTE"
+      ]
+   },
+   {
+      "provincia_id":57,
+      "provincia":"Puerto Plata",
+      "municipios":[
+         "PUERTO PLATA",
+         "ALTAMIRA",
+         "GUANANICO",
+         "IMBERT",
+         "LOS HIDALGOS",
+         "LUPERON",
+         "SOSUA",
+         "VILLA ISABELA",
+         "VILLA MONTELLANO"
+      ]
+   },
+   {
+      "provincia_id":61,
+      "provincia":"Valverde",
+      "municipios":[
+         "MAO",
+         "ESPERANZA",
+         "LAGUNA SALADA"
+      ]
+   },
+   {
+      "provincia_id":62,
+      "provincia":"Monte Cristi",
+      "municipios":[
+         "MONTE CRISTI",
+         "CASTAÃ‘UELAS",
+         "GUAYUBIN",
+         "LAS MATAS DE SANTA CRUZ",
+         "PEPILLO SALCEDO",
+         "VILLA VASQUEZ"
+      ]
+   },
+   {
+      "provincia_id":63,
+      "provincia":"Dajabónn",
+      "municipios":[
+         "DAJABON",
+         "LOMA DE CABRERA",
+         "PARTIDO",
+         "RESTAURACION",
+         "EL PINO"
+      ]
+   },
+   {
+      "provincia_id":64,
+      "provincia":"Santiago Rodríguez",
+      "municipios":[
+         "SAN IGNACIO DE SABANETA",
+         "VILLA LOS ALMACIGOS",
+         "MONCION"
+      ]
+   },
+   {
+      "provincia_id":71,
+      "provincia":"Azua",
+      "municipios":[
+         "AZUA",
+         "LAS CHARCAS",
+         "LAS YAYAS DE VIAJAMA",
+         "PADRE LAS CASAS",
+         "PERALTA",
+         "SABANA YEGUA",
+         "PUEBLO VIEJO",
+         "TABARA ARRIBA",
+         "GUAYABAL",
+         "ESTEBANIA"
+      ]
+   },
+   {
+      "provincia_id":72,
+      "provincia":"San Juan de la Maguana",
+      "municipios":[
+         "SAN JUAN",
+         "BOHECHIO",
+         "EL CERCADO",
+         "JUAN DE HERRERA",
+         "LAS MATAS DE FARFAN",
+         "VALLEJUELO"
+      ]
+   },
+   {
+      "provincia_id":73,
+      "provincia":"Elías Piña",
+      "municipios":[
+         "COMENDADOR",
+         "BANICA",
+         "EL LLANO",
+         "HONDO VALLE",
+         "PEDRO SANTANA",
+         "JUAN SANTIAGO"
+      ]
+   },
+   {
+      "provincia_id":81,
+      "provincia":"Barahona",
+      "municipios":[
+         "BARAHONA",
+         "CABRAL",
+         "ENRIQUILLO",
+         "PARAISO",
+         "VICENTE NOBLE",
+         "EL PEÑON",
+         "LA CIENAGA",
+         "FUNDACION",
+         "LAS SALINAS",
+         "POLO",
+         "JAQUIMEYES"
+      ]
+   },
+   {
+      "provincia_id":82,
+      "provincia":"Bahoruco",
+      "municipios":[
+         "NEIBA",
+         "GALVAN",
+         "TAMAYO",
+         "VILLA JARAGUA",
+         "LOS RIOS"
+      ]
+   },
+   {
+      "provincia_id":83,
+      "provincia":"Independencia",
+      "municipios":[
+         "JIMANI",
+         "DUVERGE",
+         "LA DESCUBIERTA",
+         "POSTRER RIO",
+         "CRISTOBAL",
+         "MELLA"
+      ]
+   },
+   {
+      "provincia_id":84,
+      "provincia":"Perdenales",
+      "municipios":[
+         "PEDERNALES",
+         "OVIEDO"
+      ]
+   },
+   {
+      "provincia_id":91,
+      "provincia":"San Cristóbal",
+      "municipios":[
+         "SAN CRISTOBAL",
+         "SABANA GRANDE DE PALENQUE",
+         "BAJOS DE HAINA",
+         "CAMBITA GARABITOS",
+         "VILLA ALTAGRACIA",
+         "YAGUATE",
+         "SAN GREGORIO DE NIGUA",
+         "LOS CACAOS"
+      ]
+   },
+   {
+      "provincia_id":92,
+      "provincia":"Monte Plata",
+      "municipios":[
+         "MONTE PLATA",
+         "BAYAGUANA",
+         "SABANA GRANDE DE BOYA",
+         "YAMASA",
+         "PERALVILLO"
+      ]
+   },
+   {
+      "provincia_id":93,
+      "provincia":"San José de Ocoa",
+      "municipios":[
+         "SAN JOSE DE OCOA",
+         "SABANA LARGA",
+         "RANCHO ARRIBA"
+      ]
+   },
+   {
+      "provincia_id":94,
+      "provincia":"Peravia",
+      "municipios":[
+         "BANI",
+         "NIZAO"
+      ]
+   }
+]
